@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MDeexith/MyPortfolio/static/css/main.3f257c5d.css",
-    "main.js": "/MDeexith/MyPortfolio/static/js/main.94b8146c.js",
-    "static/js/592.2bec2219.chunk.js": "/MDeexith/MyPortfolio/static/js/592.2bec2219.chunk.js",
-    "static/media/boxicons.svg": "/MDeexith/MyPortfolio/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
-    "static/media/Deexith.jpg": "/MDeexith/MyPortfolio/static/media/Deexith.1c5503760bc96a090963.jpg",
-    "static/media/boxicons.eot": "/MDeexith/MyPortfolio/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/MDeexith/MyPortfolio/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/MDeexith/MyPortfolio/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/coding.png": "/MDeexith/MyPortfolio/static/media/coding.42ba65a2922388594160.png",
-    "static/media/hackathon.png": "/MDeexith/MyPortfolio/static/media/hackathon.ec1aa339f0ddd5087f26.png",
-    "static/media/bootstrap-icons.woff?": "/MDeexith/MyPortfolio/static/media/bootstrap-icons.7d38a25801cfc2e01be2.woff",
-    "static/media/boxicons.woff2": "/MDeexith/MyPortfolio/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/bootstrap-icons.woff2?": "/MDeexith/MyPortfolio/static/media/bootstrap-icons.01c9cc54aa4917872f00.woff2",
-    "static/media/codechef.png": "/MDeexith/MyPortfolio/static/media/codechef.d2a1fe7490c14c4da3ab.png",
-    "index.html": "/MDeexith/MyPortfolio/index.html",
-    "main.3f257c5d.css.map": "/MDeexith/MyPortfolio/static/css/main.3f257c5d.css.map",
-    "main.94b8146c.js.map": "/MDeexith/MyPortfolio/static/js/main.94b8146c.js.map",
-    "592.2bec2219.chunk.js.map": "/MDeexith/MyPortfolio/static/js/592.2bec2219.chunk.js.map"
+    "main.css": "/MyPortfolio/static/css/main.b90ac7a8.css",
+    "main.js": "/MyPortfolio/static/js/main.fc90fe08.js",
+    "static/js/592.2bec2219.chunk.js": "/MyPortfolio/static/js/592.2bec2219.chunk.js",
+    "static/media/boxicons.svg": "/MyPortfolio/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/Deexith.jpg": "/MyPortfolio/static/media/Deexith.1c5503760bc96a090963.jpg",
+    "static/media/boxicons.eot": "/MyPortfolio/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/MyPortfolio/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/MyPortfolio/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/coding.png": "/MyPortfolio/static/media/coding.42ba65a2922388594160.png",
+    "static/media/hackathon.png": "/MyPortfolio/static/media/hackathon.ec1aa339f0ddd5087f26.png",
+    "static/media/bootstrap-icons.woff?": "/MyPortfolio/static/media/bootstrap-icons.7d38a25801cfc2e01be2.woff",
+    "static/media/boxicons.woff2": "/MyPortfolio/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/bootstrap-icons.woff2?": "/MyPortfolio/static/media/bootstrap-icons.01c9cc54aa4917872f00.woff2",
+    "static/media/codechef.png": "/MyPortfolio/static/media/codechef.d2a1fe7490c14c4da3ab.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.b90ac7a8.css.map": "/MyPortfolio/static/css/main.b90ac7a8.css.map",
+    "main.fc90fe08.js.map": "/MyPortfolio/static/js/main.fc90fe08.js.map",
+    "592.2bec2219.chunk.js.map": "/MyPortfolio/static/js/592.2bec2219.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f257c5d.css",
-    "static/js/main.94b8146c.js"
+    "static/css/main.b90ac7a8.css",
+    "static/js/main.fc90fe08.js"
   ]
 }
