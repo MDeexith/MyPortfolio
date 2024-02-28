@@ -26,7 +26,7 @@ const Achievements = () => {
             cardTitle: "3* at CodeChef (1650+ rating)",
             img: codechef,
             btnText: "View Profile",
-            btnUrl: "https://www.codechef.com/users/deexithmadas",
+            btnUrl: "https://www.codechef.com/users/nobita06",
 
         },
         {
