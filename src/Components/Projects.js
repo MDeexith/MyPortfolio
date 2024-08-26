@@ -15,6 +15,38 @@ import RemoveIcon from "@material-ui/icons/Remove";
 const Projects = () => {
   const items = [
     {
+      cardTitle: "UniMoney - Manage Your Money",
+      cardDetailedText: [
+        "A mobile app for personal finance management, tracking daily transactions and monthly budget analysis.",
+        "Includes timely bill reminders for better financial planning."
+      ].map(function (text) {
+        return <li>{text}</li>;
+      }),
+      technologies: ["React Native", "Node.js", "MongoDB"],
+      links: [
+        {
+          url: "https://github.com/kunalagra/UniMoney",
+          text: "View Source Code",
+        },
+      ],
+    },
+    {
+      cardTitle: "Codegamy - Learn, Compete \& Collaborate",
+      cardDetailedText: [
+        "Elevate your coding skills and ace interviews with our all-in-one platform, tailored for beginners to job-seekers.",
+        "A web application that provides a platform for users to learn, compete and collaborate with others.",
+      ].map(function (text) {
+        return <li>{text}</li>;
+      }),
+      technologies: ["Next.js", "Node.js", "MongoDB", "Jitsi"],
+      links: [
+        {
+          url: "https://github.com/kunalagra/codegamy",
+          text: "View Source Code",
+        },
+      ],
+    },
+    {
       cardTitle: "MediCall - AIO Hospital App",
       cardDetailedText: [
         "A comprehensive web application that caters to healthcare domain",

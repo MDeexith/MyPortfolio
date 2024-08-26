@@ -25,8 +25,7 @@ export default function About() {
             </p>
             <br></br>
             <p style={{ color: "#728394" }}>
-            With a hunger for challenge and a dedication to continuous improvement, 
-            I aim to make meaningful contributions to an organization's success while advancing my own professional journey.
+            Hello, I'm Deexith, I recently completed my B.Tech degree in Artificial Intelligence & Data Science from Thakur College of Engineering and Technology. I have strong foundation problem-solving skills and experience in various technologies, including HTML/CSS, JavaScript/TypeScript, Node.js, React.js, React Native, and Python. I'm passionate about exploring new technologies and continually expanding my knowledge.
             </p>
             <br></br>
             <Row>

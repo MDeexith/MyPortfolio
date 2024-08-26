@@ -3,7 +3,7 @@ const Skills = () => {
   const skills = [
     "JavaScript", "Python", "Flask", "ReactJS", "React Native",
     "Django", "MongoDB", "Machine Learning",
-    "MySQL", "NodeJS"
+    "MySQL", "NodeJS", "Next.js", "Jitsi",
   ]
   return (
     <section id="skills" class="skills section-bg">
