@@ -54,7 +54,7 @@ export default function Hero() {
             <Button
               variant="outlined"
               target="_blank"
-              href="https://drive.google.com/file/d/1RidvbAad3dIoU7kudcoD43P8KuO4ZtLa/view?usp=sharing"
+              href="https://drive.google.com/file/d/1_oIWHdxJ_y-x8oMpPejSTsQfCF1zwOVm/view?usp=drive_link"
               startIcon={<CloudDownloadIcon />}
               style={{
                 color: "rgb(116, 128, 138)",
